@@ -1,4 +1,4 @@
-# Morrow — Zero-Waste Grocery AI
+# FreshGaurdAI — Zero-Waste Grocery AI
 
 A Streamlit prototype for perishable demand forecasting and waste reduction. It includes a real OpenAI-powered chat, image analysis, audio transcription and speech generation, a scikit-learn demand forecasting model trained on loaded transaction data, and four inventory agents.
 
